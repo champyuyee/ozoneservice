@@ -1,0 +1,4 @@
+D:\Program\Ozone\Ozone\Ozone\bin\Ozone.dll
+D:\Program\Ozone\Ozone\Ozone\bin\Ozone.pdb
+D:\Program\Ozone\Ozone\Ozone\obj\Debug\Ozone.dll
+D:\Program\Ozone\Ozone\Ozone\obj\Debug\Ozone.pdb
